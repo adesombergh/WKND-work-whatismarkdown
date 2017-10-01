@@ -60,6 +60,29 @@ Vous donnera:
 
 ### Listes à puces
 
+Pour une liste à puces (liste non-numérotée), il suffit de précéder chaque élément d'un asterisque suivi d'un espace.
+
+**Exemple**
+
+``* Oeufs``
+
+``* Lait``
+
+``* Broccoli``
+
+``* Bière``
+
+Deviendra:
+
+* Oeufs
+
+* Lait
+
+* Broccoli
+
+* Bière
+
+
 ### Listception
 
 ## Liens
