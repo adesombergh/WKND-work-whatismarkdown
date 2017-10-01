@@ -5,4 +5,4 @@
 * Exemples
 * Conclusion
 
-![Logo Markdown](images/Markdown-mark.svg "Logo Markdown")
+![Logo Markdown](assets/images/Markdown-mark.svg "Logo Markdown")
