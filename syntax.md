@@ -30,10 +30,37 @@ avec des underscores ou des asterisques (mettre les symbole avant et après l'é
 
 ## Listes
 
+Que vous vouliez nous dire vos plats préférés ou vos top 5 films, les listes sont vos amis.
+
 ### Listes Numérotées
+
+Tout s'explique soi-même: il suffit de numéroter chaque élément de votre liste, suivi d'un point et une espace.
+Vous pouvez taper n'importe quel chiffre, le Markdown d'occupera de bien numéroter ca.
+
+**Exemple:**
+
+`1. Un`
+
+`1. Deux`
+
+`7. Trois`
+
+`12. Quatre`
+
+Vous donnera:
+
+1. Un
+
+1. Deux
+
+7. Trois
+
+12. Quatre
 
 
 ### Listes à puces
+
+### Listception
 
 ## Liens
 
