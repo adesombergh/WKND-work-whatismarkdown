@@ -85,6 +85,21 @@ Deviendra:
 
 ### Listception
 
+On peut aussi imbriquer une (ou plusieurs) liste dans une liste. On fait cela en indentant notre liste
+
+de quatres espaces.
+
+**Exemples**
+
+* Element principal
+
+* Element pricipal 2
+    1. Element secondaire
+    2. Element secondaire
+        * Element tertiare
+        * Element tertiare
+* Element principal
+
 ## Liens
 
 ## Images
