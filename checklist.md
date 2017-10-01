@@ -1,12 +1,12 @@
-une liste à puces **fait**
+une liste à puces **Fait**
 
-une liste numérotée
+une liste numérotée **Fait**
 
 2 ou 3 niveaux de titres et sous-titres **Fait**
 
 des liens
 
-insertion d’une image statique **fait**
+insertion d’une image statique **Fait**
 
 insertion d’une image animée
 
