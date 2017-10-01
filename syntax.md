@@ -6,11 +6,11 @@ et le tour est joué!
 
 **Exemples:**
 
-* # vous donne un *h1*
+* ``# vous donne un *h1*``
 
-* ## vous donne un *h2*
+* ``## vous donne un *h2*``
 
-* ### vous donne un *h3*
+* ``### vous donne un *h3*``
 
 * ... et ainsi de suite.
 
@@ -30,10 +30,10 @@ avec des underscores ou des asterisques (mettre les symbole avant et après l'é
 
 ## Listes
 
-###Listes Numérotées
+### Listes Numérotées
 
 
-###Listes à puces
+### Listes à puces
 
 ## Liens
 
