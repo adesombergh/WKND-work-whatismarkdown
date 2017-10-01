@@ -19,13 +19,13 @@ Pour mettre de l'emphase sur un mot, une phrase, ou même un paragraphe entier, 
 avec des underscores ou des asterisques (mettre les symbole avant et après l'élément, sans éspace).
 
 **Exemples:**
-* Un asterisque avant et après le mot "asterisque" vous donnera *asterisque*.
+* ``*astérisque*`` vous donnera *asterisque*.
 
-* Deux asterisques avant et après le mot "gras" vous donnera **gras**.
+* ``**gras**`` vous donnera **gras**.
 
 ### N.B.: Ceci peut aussi se faire avec des underscores!
 
-* Vous pouvez aussi combiner underscores et asterisques **_pour avoir ceci_**.
+* Vous pouvez aussi combiner underscores et asterisques **_pour avoir ceci_** (`**_pour avoir ceci_**`)
 
 
 ## Listes
