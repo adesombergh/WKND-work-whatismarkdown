@@ -4,7 +4,7 @@ une liste numérotée **Fait**
 
 2 ou 3 niveaux de titres et sous-titres **Fait**
 
-des liens
+des liens **Fait**
 
 insertion d’une image statique **Fait**
 
