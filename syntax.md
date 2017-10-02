@@ -102,6 +102,13 @@ de quatres espaces.
 
 ## Liens
 
+Pour créer un lien on peut l'écrire de cette manière: `[GitHub](http://github.com)`
+
+Dans les parenthèses [ ] l'on met le mot que l'on veut afficher dans ce cas c'est [BeCode]. Et dans les parenthèses ( ) l'on met le lien ver lequel l'on veut diriger le visiteur qui clique sur BeCode.
+
+Résultat: [GitHub](http://github.com)
+
+
 ## Images
 
 ## Code
@@ -111,3 +118,4 @@ de quatres espaces.
 ## Citations
 
 ## Paragraphes
+
