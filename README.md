@@ -8,7 +8,7 @@ Si Daniel arrive à s'en sortir...
 
 ### Un projet propulsé par:
 *
-*
+* [Olga Konstantinova](https://github.com/datcrackadan)
 * [Daniel Wenger](https://github.com/datcrackadan)
 * [Aldebaran Desombergh](https://github.com/adesombergh)
 
