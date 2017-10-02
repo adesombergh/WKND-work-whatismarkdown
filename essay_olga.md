@@ -1,1 +1,0 @@
-# hello, essay d'olga
